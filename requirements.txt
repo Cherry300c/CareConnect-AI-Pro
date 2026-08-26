@@ -1,0 +1,12 @@
+streamlit>=1.33
+pandas>=2.0
+plotly>=5.18
+requests>=2.31
+folium>=0.15
+streamlit-folium>=0.18
+streamlit-geolocation>=0.0.10
+streamlit-mic-recorder>=0.0.8
+sentence-transformers>=2.7
+torch
+google-genai>=0.3.0
+fpdf>=1.7.2
