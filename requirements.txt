@@ -17,6 +17,7 @@ streamlit-mic-recorder>=0.0.8
 sentence-transformers>=2.7
 
 torch
+torchvision
 
 google-genai>=0.3.0
 
