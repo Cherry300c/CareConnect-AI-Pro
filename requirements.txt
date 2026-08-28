@@ -11,3 +11,4 @@ torch
 google-genai>=0.3.0
 fpdf>=1.7.2
 gTTs
+python-dotenv
