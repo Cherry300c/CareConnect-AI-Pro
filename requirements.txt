@@ -24,7 +24,5 @@ fpdf>=1.7.2
 <<<<<<< HEAD
 
 gTTS
-=======
-gTTs
 python-dotenv
 >>>>>>> eaa44bec3b84d0ac83ce719a7e9ad2fd8b6a9404
