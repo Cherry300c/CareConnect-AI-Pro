@@ -17,13 +17,13 @@ streamlit-mic-recorder>=0.0.8
 sentence-transformers>=2.7
 
 torch
+
 torchvision
 
 google-genai>=0.3.0
 
 fpdf>=1.7.2
-<<<<<<< HEAD
 
 gTTS
 python-dotenv
->>>>>>> eaa44bec3b84d0ac83ce719a7e9ad2fd8b6a9404
+
